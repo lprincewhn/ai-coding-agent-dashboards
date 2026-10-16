@@ -1,0 +1,6 @@
+*.export.json
+*.live.json
+.env
+.env.*
+*.pem
+*.key
