@@ -358,5 +358,11 @@ workspace-based Application Insights 的摄取与保留费用归属关联工作�
 - [日志计费规则](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/cost-logs)
 - [保留策略](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-retention-configure)
 
-这些定义由初始模板定制而来，保留内嵌文档链接与归属信息。
-本仓库不为第三方材料重新指定许可证；公开分发前需核对上游许可与署名要求。
+## 上游许可与归属
+
+`dashboards/github-copilot.json`、`dashboards/codex.json` 和
+`dashboards/claude-code.json` 改编自
+[1w2w3y/grafana-dashboards](https://github.com/1w2w3y/grafana-dashboards)
+中的同名仪表盘。上游作者的版权声明为 Copyright (c) 2020 Wuyi Weng；
+上游采用 MIT License，完整版权与许可声明见本仓库的 [LICENSE](LICENSE)。
+本仓库维护上述仪表盘的后续修改及新增文档，不将这些修改归于上游作者。
